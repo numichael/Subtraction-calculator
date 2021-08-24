@@ -1,0 +1,16 @@
+C:\Users\USER\Subtraction\bin\Debug\net5.0\Subtraction.exe
+C:\Users\USER\Subtraction\bin\Debug\net5.0\Subtraction.deps.json
+C:\Users\USER\Subtraction\bin\Debug\net5.0\Subtraction.runtimeconfig.json
+C:\Users\USER\Subtraction\bin\Debug\net5.0\Subtraction.runtimeconfig.dev.json
+C:\Users\USER\Subtraction\bin\Debug\net5.0\Subtraction.dll
+C:\Users\USER\Subtraction\bin\Debug\net5.0\ref\Subtraction.dll
+C:\Users\USER\Subtraction\bin\Debug\net5.0\Subtraction.pdb
+C:\Users\USER\Subtraction\obj\Debug\net5.0\Subtraction.csproj.AssemblyReference.cache
+C:\Users\USER\Subtraction\obj\Debug\net5.0\Subtraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Subtraction\obj\Debug\net5.0\Subtraction.AssemblyInfoInputs.cache
+C:\Users\USER\Subtraction\obj\Debug\net5.0\Subtraction.AssemblyInfo.cs
+C:\Users\USER\Subtraction\obj\Debug\net5.0\Subtraction.csproj.CoreCompileInputs.cache
+C:\Users\USER\Subtraction\obj\Debug\net5.0\Subtraction.dll
+C:\Users\USER\Subtraction\obj\Debug\net5.0\ref\Subtraction.dll
+C:\Users\USER\Subtraction\obj\Debug\net5.0\Subtraction.pdb
+C:\Users\USER\Subtraction\obj\Debug\net5.0\Subtraction.genruntimeconfig.cache
